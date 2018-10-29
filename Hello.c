@@ -1,5 +1,5 @@
 #include <stdio.h>
-Void main ()
+Void main {}
 {
   Print ("hello world....!!");
   }
